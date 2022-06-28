@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: rgb(127, 206, 255);
+    color: rgb(124, 60, 184);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.botao{
+    font-weight: 900;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border-color: blueviolet;
+    background-color: rgb(226, 134, 203);
+    color: rgb(127, 206, 255);
+    
+}
